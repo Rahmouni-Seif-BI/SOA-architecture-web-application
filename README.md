@@ -12,6 +12,9 @@ website allows you to make a plane/hotel tickets reservation and gives you  the 
 # Reservation hotel page 
 ![](reservation.png)
 
+# Facture hotel page 
+![](facture.png)
+
 
 # Weather page 
 ![](weather.png)
